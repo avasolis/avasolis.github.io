@@ -20,6 +20,7 @@ author: Ava Solis
 ###############################################
 
 navbar-links:
+  Author's Home: "https://deanattali.com"
   About Me: "aboutme"
   Resources:
     - Course Glow Page: "https://glow.williams.edu/courses/7526173"
