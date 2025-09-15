@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Course Glow Page: "https://glow.williams.edu/courses/7526173"
-    - Markdown Cheat Sheet: "https://www.markdowntutorial.com/"
+    - Markdown Cheat Sheet: "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links"
 
 ################
 # --- Logo --- #
@@ -52,7 +52,7 @@ social-network-links:
   email: "acs7@williams.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: avasolis
- instagram: avasolis
+  instagram: avasolis
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
