@@ -2,8 +2,8 @@
 layout: post
 title: My Sewing Sampler
 subtitle: Here's what worked and what didn't. 
-cover-img: ![alt text](/assets/img/IMG_7327.JPG)
-cover-img: ![alt text](/assets/img/IMG_7326.JPG)
+cover-img: ![alt text]((https://github.com/avasolis/avasolis.github.io/blob/master/assets/img/IMG_7326.JPG))
+cover-img: ![alt text]((https://github.com/avasolis/avasolis.github.io/blob/master/assets/img/IMG_7327.JPG))
 thumbnail-img: /assets/img/IMG_7327.JPG
 share-img: /assets/img/IMG_7326.JPG
 author: Ava Solis
