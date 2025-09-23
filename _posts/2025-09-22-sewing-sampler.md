@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Sewing Sampler
-subtitle: Here's what worked and what didn't...
+subtitle: Here's what worked and what didn't. 
 cover-img:![alt text](/assets/img/IMG_7327.JPG)
 cover-img: ![alt text](/assets/img/IMG_7326.JPG)
 thumbnail-img: /assets/img/IMG_7326.JPG
