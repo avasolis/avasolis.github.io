@@ -2,9 +2,9 @@
 layout: post
 title: Final Project - Light-Up Singing Mug Sleeve!
 subtitle: A mug sleeve that tells you when your hot beverage is the perfect temperature to drink! 
-cover-img: /assets/img/pwms.JPG
-thumbnail-img: /assets/img/pwms.JPG
-share-img: /assets/img/pwms.JPG
+cover-img: /assets/img/workingmug.jpg
+thumbnail-img: /assets/img/workingmug.jpg
+share-img: /assets/img/workingmug.jpg
 author: Ava Solis
 ---
 My "Light-Up Singing Mug Sleeve" is designed to play a tune and light up when it detects that a hot drink has cooled to a certain temperature that is appropriate for drinking. I wanted to create this project because I am a coffee and tea enthusiast. I can't start my day without either and anytime I go to a new place, I always want to try their local cafe. I also am a barista at Goodrich Coffee Bar, so believe it or not, mugs are a big part of my everyday life! I thought this product could be particularly practical because whenever I get a hot drink, which I tend to order around this time of year, it's always way too hot to drink and I need to let it cool. My Singing Mug Sleeve is perfect because it will ring when the mug, which I determined was indicative enoguh of the inside temperature, reaches a certain temperature. 
