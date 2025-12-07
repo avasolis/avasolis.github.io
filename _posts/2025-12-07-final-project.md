@@ -17,6 +17,12 @@ If I were to do this project again, I'd tell myself to consider that not every m
 '" 
 I did not use any outside resources for this project, but I did reference the "Help, I Need Somebody" and "Ghost Detector" assignments, as well as the example code from Glow titled "14-Button-Rand-LED." 
 
-Below are images of my project working. The first is a video with hot water in the mug, the second picture shows that when the button is not pressed the LEDs are not on and the song does not play, the third is a cup of cold water, showing that even when the button is pressed, because it does not reach the temperature threshold, the LEDs and buzzer do not turn on. 
-![Front Image](https://avasolis.github.io/assets/img/pwms.JPG)
+Below and attached are proof of my project working. [Here](https://www.youtube.com/watch?v=QqHKpmBnrBg) is a link to a video with hot water in the mug, the first picture shows that when the button is not pressed the LEDs are not on and the song does not play, the third shows a cup of cold water, illustrating that even when the button is pressed, because it does not reach the temperature threshold, the LEDs and buzzer do not turn on. 
+![Front Image](https://avasolis.github.io/assets/img/nobutton.JPG)
+![Front Image](https://avasolis.github.io/assets/img/coldwater.JPG)
 
+And now for the earlier stages, below are my updated paper prototype and the alligator clips prototype. 
+![Front Image](https://avasolis.github.io/assets/img/FinalPaperPrototype.jpg)
+![Front Image](https://avasolis.github.io/assets/img/alligatorfinal.JPG)
+
+I had a lot of fun working on this project! It was very rewarding and I'm impressed with myself that I was able to create something like this given that I had no clue how to sew or code at the beginning of the semester. 
